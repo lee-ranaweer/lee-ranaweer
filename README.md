@@ -1,15 +1,21 @@
-# Hi, I'm Nelith Ranaweera :-)
+<h1 align="center"> Hi, I'm Nelith Ranaweera :-) </h1>
 ### >A passionate Fullstack developer from based in Ontario</h3>
 
-- 🔭 I’m currently working on **Evolutionary Art Engine**
-- 🌱 I’m currently learning **[Creative Coding with p5.js]**
-- 🚀 I recently finished **[My Portfolio Website]**
+Check out my porfolio at nelith.dev
+
+  <table align="center">
+    <tr>
+      <td align="left" style="border: 1px solid #ddd; padding: 15px; border-radius: 8px; max-width: 400px;">
+        - 🔭 I’m currently working on **Evolutionary Art Engine**<br>
+        - 🌱 I’m currently learning **[Creative Coding with p5.js]**<br>
+        - 🚀 I recently finished **[My Portfolio Website]**
+      </td>
+    </tr>
+  </table>
+
 ---
 
-### 🛠️ Languages and Tools:
-
-
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -28,24 +34,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
-### 📊 GitHub Stats:
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lee-ranaweer&show_icons=true&locale=en" alt="lee-ranaweer" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-ranaweer&layout=compact" alt="lee-ranaweer" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
+### Connect with me:
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin" height="30" width="30" /></a>
-  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="your-twitter" height="30" width="30" /></a>
-  <!-- Add more social icons as needed -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nelith-ranaweera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin" height="30" width="30" /></a>
 </p>
 
 
