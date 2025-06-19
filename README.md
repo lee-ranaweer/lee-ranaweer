@@ -1,12 +1,17 @@
-# Hi, I'm Nelith Ranaweera :-)
-### I like building things that work—and work well. Mostly Fullstack Apps.
-Check out my porfolio at https://www.nelith.dev/
+<h1 align="center"> Hi, I'm Nelith Ranaweera :-) </h1>
 
-🔭 Currently working on Evolutionary Art Engine<br>
-🌱 Currently learning Creative Coding with p5.js<br>
+<h3 align="center"> I like building things that work—and work well. Mostly Fullstack Apps </h3>
+
+
+<p align="center">
+  Check out my portfolio at <a href="https://www.nelith.dev/">nelith.dev</a>
+</p>
+
+<p align="center">
+🔭 Currently working on Evolutionary Art Engine  
+🌱 Currently learning Creative Coding with p5.js  
 🚀 Recently finished My Portfolio Website
-
----
+</p>
 
 <p align="center ">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
